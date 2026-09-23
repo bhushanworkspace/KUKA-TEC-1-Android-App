@@ -1,0 +1,12 @@
+The Android APK for KUKA TEC 1 should be downloaded from the GitHub Releases page.
+
+Release asset filename:
+
+KUKA_TEC_1.apk
+
+Recommended release:
+
+Tag: v1.0.0
+Title: KUKA TEC 1 Android APK 1.0.0
+
+This placeholder exists so the repository clearly documents where the APK belongs without storing the binary in the source tree.
