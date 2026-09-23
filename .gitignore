@@ -1,0 +1,22 @@
+# Android / build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+build/
+.gradle/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
